@@ -1,7 +1,7 @@
 /*
-Theme Name: Blank Social Child Theme
+Theme Name: Disable Checkout Social Child Theme
 Theme URI: http://groupbuyingsite.com
-Description: This theme will be identical to the Social Theme until you add modifications.
+Description: This theme disables the Social Theme's guest checkout, you can add additional modifications.
 Author: Group Buying Site
 Author URI: http://groupbuyingsite.com
 Version: 1.0
@@ -11,4 +11,3 @@ template: social-theme
 /* 
 Add your custom styles below:
 */
-
